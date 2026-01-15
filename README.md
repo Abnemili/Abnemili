@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm AbdElMoula</h1>
-<h3 align="center">A Full Stack & AI Engineer, I build end-to-end web applications and integrate AI into production workflows</h3>
+<h1 align="center">Hi Geeks , I'm AbdElMoula</h1>
+<h3 align="center">Full Stack & AI Engineer | Building tools that actually work.</h3>
 
-- 🔭 I’m currently working on **A Booking restaurant system**
+- I'm currently building end-to-end web apps and AI agents. **Book-Exp**
+
+- 💬 Ask me about **Scaling web apps, RAG, or why my CSS isn't centering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
