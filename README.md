@@ -1,9 +1,15 @@
 <h1 align="center">Hi Geeks , I'm AbdElMoula</h1>
 <h3 align="center">Full Stack & AI Engineer | Building tools that actually work.</h3>
 
-- I'm currently building end-to-end web apps and AI agents. **Book-Exp**
+Full Stack & AI Engineer
 
-- 💬 Ask me about **Scaling web apps, RAG, or why my CSS isn't centering.**
+I build end-to-end web applications and integrate AI into production workflows. I’m mostly interested in bridging the gap between clean, usable frontends and intelligent backends.
+
+🏗️ What I do: I handle everything from system architecture and APIs to responsive UI.
+
+🤖 AI Focus: I work on RAG (Retrieval-Augmented Generation), agentic workflows, and making LLMs actually useful in real apps.
+
+🛠️ Philosophy: I prefer shipping tools that solve real problems over chasing every new hype cycle.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
