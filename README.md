@@ -1,5 +1,5 @@
 <h1 align="center">Hi Geeks , I'm AbdElMoula</h1>
-<h3 align="center">Full Stack & AI Engineer | Building tools that actually work.</h3>
+<h3 align="center"> DevOps & AI engineer| Building tools that actually work.</h3>
 
 software developer 
 
