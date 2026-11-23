@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://portfolio-sigma-rosy-98.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/Abnemili/mezan-showcase"><b>Featured project: MÉZAN</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Abnemili/Taskflow-Showcase"><b>Featured project: TaskFlow</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abdelmoula-nemili/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:nemiliabdelmoula@gmail.com">Email</a>
 </p>
@@ -28,6 +29,16 @@ A full-stack booking system: guests reserve a table from their phone, get a QR c
 
 `Node.js` `Express` `PostgreSQL` `Docker` `GitHub Actions` `Next.js`
 
+### 🗂️ [TaskFlow: team workspace platform](https://github.com/Abnemili/Taskflow-Showcase)
+A collaborative app with projects, tasks, real-time chat, live analytics and a private AI assistant, built by a team of four for 42's `ft_transcendence`. **My role: project manager, system design, DevOps and frontend design.**
+- Designed the architecture and the product UI, including a design system with 27 reusable components
+- Built the Docker stack, Nginx HTTPS gateway, GitHub Actions CI, ELK logging, Prometheus and Grafana alerts
+- Automated daily PostgreSQL backups with a tested restore drill
+
+<a href="https://github.com/Abnemili/Taskflow-Showcase"><img src="https://raw.githubusercontent.com/Abnemili/Taskflow-Showcase/main/assets/screenshots/dashboard.png" alt="TaskFlow team dashboard" width="720" /></a>
+
+`Docker` `Nginx` `GitHub Actions` `ELK` `Prometheus` `Grafana` `PostgreSQL` `Fastify` `Socket.IO`
+
 ### 🐳 [Inception](https://github.com/Abnemili/Inception)
 A WordPress stack built from my own Dockerfiles: nginx (TLS 1.2/1.3 only), WordPress + php-fpm and MariaDB. Each runs in its own container on an isolated network, with persistent volumes, secrets and idempotent setup scripts.
 
@@ -42,11 +53,6 @@ An IRC server in C++98 that serves many clients at once from a single non-blocki
 A first-person 3D maze in the style of Wolfenstein 3D, written in C with no game engine. Every frame is cast column by column with a DDA raycasting algorithm: 1500 rays over a 60° field of view, fish-eye correction, four wall textures and strict validation of the map file.
 
 `C` `MiniLibX` `Raycasting` `DDA` `Linux`
-
-### 🚧 TaskFlow (ft_transcendence): in progress
-A collaborative workspace app built by a team of four, with projects, tasks, team chat, notifications and analytics. I'm the product owner and own the Git workflow and the full DevOps setup: Docker Compose dev and prod environments, an Nginx HTTPS reverse proxy, GitHub Actions CI, ELK logging, Prometheus and Grafana monitoring, and PostgreSQL backups with verified restores.
-
-`Docker` `Nginx` `GitHub Actions` `ELK` `Prometheus` `Grafana` `PostgreSQL` `Fastify`
 
 ## Also from the 1337 curriculum
 
