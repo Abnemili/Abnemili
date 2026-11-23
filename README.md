@@ -29,13 +29,11 @@ A full-stack booking system: guests reserve a table from their phone, get a QR c
 
 `Node.js` `Express` `PostgreSQL` `Docker` `GitHub Actions` `Next.js`
 
-### 🗂️ [TaskFlow: team workspace platform](https://github.com/Abnemili/Taskflow-Showcase)
-A collaborative app with projects, tasks, real-time chat, live analytics and a private AI assistant, built by a team of four for 42's `ft_transcendence`. **My role: project manager, system design, DevOps and frontend design.**
+### 🗂️ [TaskFlow: team workspace platform (PFE)](https://github.com/Abnemili/Taskflow-Showcase)
+A collaborative app with projects, tasks, real-time chat, live analytics and a private AI assistant, built by a team of four as our PFE (final-year project) at 1337, for 42's `ft_transcendence`. **My role: project manager, system design, DevOps and frontend design.**
 - Designed the architecture and the product UI, including a design system with 27 reusable components
 - Built the Docker stack, Nginx HTTPS gateway, GitHub Actions CI, ELK logging, Prometheus and Grafana alerts
 - Automated daily PostgreSQL backups with a tested restore drill
-
-<a href="https://github.com/Abnemili/Taskflow-Showcase"><img src="https://raw.githubusercontent.com/Abnemili/Taskflow-Showcase/main/assets/screenshots/dashboard.png" alt="TaskFlow team dashboard" width="720" /></a>
 
 `Docker` `Nginx` `GitHub Actions` `ELK` `Prometheus` `Grafana` `PostgreSQL` `Fastify` `Socket.IO`
 
